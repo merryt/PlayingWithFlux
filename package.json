@@ -18,15 +18,16 @@
   "homepage": "https://github.com/merryt/PlayingWithFlux",
   "dependencies": {
     "flux": "^2.1.1",
-    "history": "^1.13.1",
+    "history": "^1.13.0",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
-    "react-router": "^1.0.0"
+    "react-router": "^1.0.0-rc4"
   },
   "devDependencies": {
-    "babel": "^6.1.18",
-    "babel-loader": "^6.2.0",
-    "babel-preset-es2015": "^6.1.18",
-    "webpack": "^1.12.6"
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "webpack": "^1.12.3"
   }
 }
